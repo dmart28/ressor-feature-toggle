@@ -1,0 +1,4 @@
+- feature: new-design
+  state: DISABLED
+- feature: items-list
+  state: ENABLED
